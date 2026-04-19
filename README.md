@@ -34,6 +34,7 @@ ________________________________________
 ________________________________________
 
 🚨 Problem Statement
+
 Healthcare systems face increasing pressure to manage growing patient demand while ensuring timely access to care. Patient wait list data is often fragmented across multiple files and systems, making it difficult to monitor trends, identify bottlenecks, and prioritise high-demand specialties.
 Without a unified analytical view, healthcare teams struggle to track long waiting times, compare inpatient and outpatient performance, and make informed operational decisions. This can result in prolonged waiting periods, inefficient resource allocation, and reduced patient satisfaction.
 This project addresses these challenges by consolidating multi-year wait list data into a single Power BI dashboard, enabling clear visibility of trends, wait time distributions, and specialty-level demand to support data-driven decision-making.

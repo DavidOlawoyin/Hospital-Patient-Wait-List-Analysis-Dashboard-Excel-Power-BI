@@ -1,10 +1,15 @@
 
 🏥 Hospital Patient Wait List Analysis | Excel | Power BI Dashboard
+
 📊 End-to-end healthcare analytics project analysing inpatient, day case, and outpatient wait lists to identify trends, specialty pressure, and long-wait bottlenecks.
 ________________________________________
+
 📌 Table of Contents
+
 •	🚨 Problem Statement
+
 •	🎯 Project Objectives
+
 •	📂 Dataset Overview
 •	🧹 Data Preparation
 •	🏗️ Data Model
